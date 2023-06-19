@@ -1,3 +1,9 @@
 This is a new file
 
 new line in new file
+
+//used vim again to type some new line
+	//getting now familiar with GitHub
+
+
+LearnGit 2nd file completed
